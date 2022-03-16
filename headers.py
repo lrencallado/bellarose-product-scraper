@@ -1,0 +1,16 @@
+headers = {
+    'authority': 'bellarose.pl',
+    'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="98", "Microsoft Edge";v="98"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"macOS"',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'sec-fetch-site': 'none',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-user': '?1',
+    'sec-fetch-dest': 'document',
+    'accept-language': 'en-US,en;q=0.9',
+    'cookie': '_gcl_au=1.1.1316022316.1647267604; _ga=GA1.2.1052431736.1647267605; _gid=GA1.2.889965404.1647398711; _lscache_vary=c18c67d91cd95ccd31b915f67b17a97b; wordpress_logged_in_1e341aa0fd1ffb05d81ba0959d71d61b=ghostdummy2020%40gmail.com%7C1648613089%7CLJf2h4AtoDltaxJJ2eoYP63gQM5ODYbqWnpoDSvcyXN%7Cf8867f2543fa1b48ac6e47cc3003497867b00f50f44579ea370779ede5ad8ca6',
+    'if-none-match': '"46035-1647398707;br"',
+}
